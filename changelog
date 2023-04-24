@@ -3,8 +3,6 @@
     <head>
         <title>cj ⊚</title>
         <style>
-            @import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&display=swap');
-
             @font-face {
                 font-family:'TT Interphases';
                 src:url('https://dl.dropboxusercontent.com/s/4xrpa53ivy5znlc/tt-interphases-pro-medium.woff');
@@ -13,9 +11,9 @@
             * {
                 background-color:#ECE5D5;
                 color:#141414;
-                font-family:'Inter', sans-serif;
+                font-family:'TT Interphases', sans-serif;
                 line-height:125%;
-                letter-spacing:-0.054em;
+                letter-spacing:-0.012em;
                 text-decoration:none;
             }
 
