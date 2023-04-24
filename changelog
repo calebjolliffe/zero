@@ -8,17 +8,23 @@
                 src:url('https://dl.dropboxusercontent.com/s/4xrpa53ivy5znlc/tt-interphases-pro-medium.woff');
             }
 
-            * {
-                background-color:#ECE5D5;
-                color:#141414;
+            :root {
+                background-color:#F5F5F5;
+                color:#443D39;
                 font-family:'TT Interphases', sans-serif;
-                line-height:125%;
+                font-weight:500;
+                line-height:120%;
                 letter-spacing:-0.012em;
                 text-decoration:none;
             }
 
             a {
                 font-size:inherit;
+            }
+
+            a:hover {
+                opacity:40%;
+                transition:0.25s ease-in-out;
             }
 
             h2 {
@@ -29,7 +35,7 @@
 
             h4 {
                 font-size:1rem;
-                margin:0% 3.6% 3.6% 3.6%;
+                margin:0% 3.6% 1.8% 3.6%;
                 max-width:41.31%;
             }
 
@@ -44,13 +50,13 @@
     </head>
     <body>
         <h2>
-            <a href="https://read.cv/calebjolliffe" target="_blank">Caleb Jolliffe</a> is a digital
-            designer &amp; workflow engineer. He creates intuitive, enjoyable workflows for everyday problems that bring control 
-            &amp; joy back into the user's hands.
+            <a href="https://read.cv/calebjolliffe" target="_blank">Caleb Jolliffe</a> is a digital designer &amp; workflow 
+            engineer. He creates intuitive, enjoyable workflows for everyday problems that bring control &amp; joy back into 
+            the user's hands.
             <br><br>
             Currently at DBS, open for projects.
             <br>
-            <a href="mailto:howdy@calebjolliffe.co" style="color:#565656;">Get in touch.</a>
+            <a href="mailto:howdy@calebjolliffe.co" style="color:#C45508;">Get in touch.</a>
         </h2>
         <h4>
             <a href="/" style="margin-right:0.9%;" target="_blank">Work</a>
