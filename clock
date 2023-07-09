@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title>yxu time</title>
+        <meta charset="UTF-8">
+    </head>
+
+    <body>
+        <div id="yxu">
+            <h2>yxu</h2>
+            <output>00:00:00</output>
+        </div>
+    </body>
+</html>
