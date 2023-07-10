@@ -1,0 +1,22 @@
+/*--
+
+
+             three
+
+            @ilexen
+
+
+--*/
+
+@font-face {
+    font-family:'TT Interphases';
+    src:url('https://dl.dropboxusercontent.com/s/4xrpa53ivy5znlc/tt-interphases-pro-medium.woff');
+}
+
+* {
+    background-color:#141414;
+    color:#f4f4f4;
+    font-family:'TT Interphases', sans-serif;
+    font-size:16px;
+    font-weight:500;
+}
