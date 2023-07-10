@@ -1,18 +1,1 @@
-const locations = document.querySelectorAll("section.times div")
-
-const updateTimes = function () {
-    locations.forEach(location => {
-        const output = location.querySelector("output")
-        const timezone = location.getAttribute("data-timezone")
-    
-        const now = luxon.DateTime.now().setZone(timezone)
-    
-        output.innerHTML = now.toFormat("HH:mm:ss")
-    })
-}
-
-updateTimes()
-
-setInterval(function () {
-    updateTimes()
-}, 1000)
+const locations=document.querySelectorAll("section.times div"),updateTimes=function(){locations.forEach(t=>{let e=t.querySelector("output"),o=t.getAttribute("data-timezone"),i=luxon.DateTime.now().setZone(o);e.innerHTML=i.toFormat("HH:mm:ss")})};updateTimes(),setInterval(function(){updateTimes()},1e3);
