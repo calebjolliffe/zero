@@ -1,4 +1,4 @@
-const locations = document.querySelectorAll("div.col div")
+const locations = document.querySelectorAll("section.time div")
 
 const updateTimes = function () {
     locations.forEach(location => {
