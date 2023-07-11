@@ -107,6 +107,14 @@ a:hover {
     font-size:1.25rem !important;
 }
 
+.left {
+    opacity:50%;
+}
+
+.right {
+    opacity:50%;
+}
+
 .images {
     /*-- testing this --*/
     height:100%;
