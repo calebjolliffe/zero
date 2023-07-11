@@ -1,14 +1,3 @@
-/*--
-
-
-             three
-
-            @ilexen
-
-
---*/
-
-
 @font-face {
     font-family:'TT Interphases';
     src:url('https://dl.dropboxusercontent.com/s/4xrpa53ivy5znlc/tt-interphases-pro-medium.woff');
@@ -23,29 +12,74 @@
     font-variant-numeric:slashed-zero !important;
 }
 
-nav {
-    margin-top:1.66%;
-    margin-left:3.3%;
-    margin-right:3.3%;
-    max-width:100%;
-}
-
 .container {
-    margin-left:auto;
-    margin-right:auto;
-    max-width:100%;
-    padding-left:1.66%;
-    padding-right:1.66%;
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1440px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 2%;
+    padding-left: 2%;
 }
 
 .row {
-    margin-left:-1.66%;
-    margin-right:-1.66%;
-    display:flex;
-    flex-wrap:wrap;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
 }
 
-.col {
-    flex:0 0 calc(100% / 8 - 3.33%);
-    margin:1.66%;
+.col-1 {
+    width: 12.5%;
+    padding: 0 1%;
+    box-sizing: border-box;
+    background-color:rgba(255,0,0,0.1);
+}
+
+.col-2 {
+    width:25%;
+    padding: 0 1%;
+    box-sizing: border-box;
+    background-color:rgba(255,0,0,0.1);
+}
+
+.col-3 {
+    width:37.5%;
+    padding:0 1%;
+    box-sizing:border-box;
+    background-color:rgba(255,0,0,0.1);
+}
+
+.col-4 {
+    width:50%;
+    padding:0 1%;
+    box-sizing:border-box;
+    background-color:rgba(255,0,0,0.1);
+}
+
+.col-5 {
+    width:62.5%;
+    padding:0 1%;
+    box-sizing:border-box;
+    background-color:rgba(255,0,0,0.1);
+}
+
+.col-6 {
+    width:75%;
+    padding:0 1%;
+    box-sizing:border-box;
+    background-color:rgba(255,0,0,0.1);
+}
+
+.col-7 {
+    width:87.5%;
+    padding:0 1%;
+    box-sizing:border-box;
+    background-color:rgba(255,0,0,0.1);
+}
+
+.col-8 {
+    width:100%;
+    padding:0 1%;
+    box-sizing:border-box;
+    background-color:rgba(255,0,0,0.1);
 }
