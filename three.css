@@ -151,6 +151,13 @@ img {
     padding-top:1%;
 }
 
+.copy {
+    background-color:#f4f4f4;
+    color:#141414;
+    padding-top:10%;
+    padding-bottom:1%;
+}
+
 .beacon {
     text-align:right;
 }
