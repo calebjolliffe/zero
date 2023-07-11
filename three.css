@@ -116,3 +116,7 @@ a:hover {
 img {
     background-color:#ccc !important;
 }
+
+.projects {
+    padding-top:10%;
+}
