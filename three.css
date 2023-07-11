@@ -15,10 +15,37 @@
 }
 
 * {
-    background-color:#f4f4f4;
-    color:#141414;
-    font-family:'TT Interphases', sans-serif;
+    background-color:#f4f4f4 !important;
+    color:#141414 !important;
+    font-family:'TT Interphases', sans-serif !important;
     font-size:16px;
     font-weight:500;
-    font-variant-numeric:slashed-zero;
+    font-variant-numeric:slashed-zero !important;
+}
+
+nav {
+    margin-top:24px;
+    margin-left:3.3%;
+    margin-right:3.3%;
+    max-width:100%;
+}
+
+.container {
+    margin-left:auto;
+    margin-right:auto;
+    max-width:100%;
+    padding-left:24px;
+    padding-right:24px;
+}
+
+.row {
+    margin-left:-24px;
+    margin-right:-24px;
+    display:flex;
+    flex-wrap:wrap;
+}
+
+.col {
+    flex:0 0 calc(100% / 8 - 48px);
+    margin:24px;
 }
