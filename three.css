@@ -115,6 +115,7 @@ a:hover {
 .images {
     height:100%;
     background-color:#ccc !important;
+    display:none;
 }
 
 img {
@@ -164,4 +165,9 @@ img {
 
 .beacon a {
     color:#141414 !important;
+}
+
+.foot ul {
+    list-style:none;
+    text-align:left;
 }
