@@ -17,6 +17,9 @@ The third iteration of my portfolio, built amidst layoffs
 - [ ] Add Dropbox links to HTML
 - [ ] Final test on localhost
 - [ ] Add metadata
+- [ ] Minify HTML
+- [ ] Minify CSS
+- [x] Minify JS
 - [ ] Update all Github repos
 - [ ] Delete redundant/unused code from repos
 - [ ] Launch
