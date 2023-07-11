@@ -104,7 +104,6 @@ a:hover {
     padding-top:5%;
     padding-bottom:1.5%;
     border-bottom:1px solid #000;
-    font-size:1.25rem !important;
 }
 
 .images {
@@ -130,4 +129,13 @@ img {
 .project {
     line-height:200%;
     border-bottom:1px solid #949494;
+}
+
+.left {
+    text-align:left;
+}
+
+.right {
+    text-align:right;
+    color:#949494 !important;
 }
