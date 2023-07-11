@@ -1,2 +1,1 @@
-### three
-*[calebjolliffe.co](https://calebjolliffe.co)*
+### :cowboy_hat_face: three
