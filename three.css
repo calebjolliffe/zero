@@ -94,7 +94,6 @@ a:hover {
     padding-top:1%;
     padding-bottom:1.5%;
     border-bottom:1px solid #000;
-    position:static;
     z-index:9999;
 }
 
@@ -169,5 +168,18 @@ img {
 
 .foot ul {
     list-style:none;
+    list-style-position:outside;
     text-align:left;
+}
+
+.foot a {
+    color:#141414 !important;
+}
+
+section {
+    color:#949494 !important;
+}
+
+.title {
+    color:#949494 !important;
 }
