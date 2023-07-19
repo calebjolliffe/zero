@@ -1,73 +1,81 @@
 <!DOCTYPE html>
 <html>
+
     <head>
-        <title>cj ⊚</title>
-        <style>
-            @font-face {
-                font-family:'TT Interphases';
-                src:url('https://dl.dropboxusercontent.com/s/4xrpa53ivy5znlc/tt-interphases-pro-medium.woff');
-            }
 
-            * {
-                background-color:#F5F5F5;
-                color:#2E2E34;
-                font-family:'TT Interphases', sans-serif;
-                font-weight:500;
-                line-height:120%;
-                letter-spacing:-0.012em;
-                text-decoration:none;
-            }
+        <title>Caleb Jolliffe &#8212; Digital Designer</title>
+        <link rel="shortcut icon" href="three.png">
+        <link rel="stylesheet" type="text/css" href="raster.css">
+        <link rel="stylesheet" type="text/css" href="max.css">
 
-            a {
-                font-size:inherit;
-            }
+        <!-- METADATA GOES HERE -->
 
-            a:hover {
-                opacity:40%;
-                transition:0.25s ease-in-out;
-            }
-
-            h2 {
-                font-size:1.5rem;
-                margin:3.6% 3.6% 1.8% 3.6%;
-                max-width:41.31%;
-            }
-
-            h4 {
-                font-size:1rem;
-                margin:0% 3.6% 1.8% 3.6%;
-                max-width:41.31%;
-            }
-
-            h6 {
-                font-size:1rem;
-                bottom:0;
-                position:fixed;
-                margin:3.6% 3.6% 1.8% 3.6%;
-                max-width:33.88%;
-            }
-        </style>
     </head>
+
     <body>
-        <h2>
-            <a href="https://read.cv/calebjolliffe" target="_blank">Caleb Jolliffe</a> is a digital designer &amp; workflow 
-            engineer. He creates intuitive, enjoyable workflows for everyday problems that bring control &amp; joy back into 
-            the user's hands.
-            <br><br>
-            Currently at DBS, open for projects.
-            <br>
-            <a href="mailto:howdy@calebjolliffe.co" style="color:#C45508;">Get in touch.</a>
-        </h2>
-        <h4>
-            <a href="/" style="margin-right:0.9%;" target="_blank">Work</a>
-            <a href="https://shop.calebjolliffe.co" style="margin:0% 0.9% 0% 0.9%" target="_blank">Shop</a>
-            <a href="/" style="margin-left:0.9%" target="_blank">Newsletter</a>
-        </h4>
-        <h6>
-            ©2023 Caleb Jolliffe
-        </h6>
-        <h6 style="right:0; text-align:right;">
-            <a href="https://digitalbeacon.co/report/calebjolliffe-co" target="_blank">Beacon</a>
-        </h6>
+
+        <r-grid columns=8>
+            <r-cell span=1-2><a href="https://calebjolliffe.co" class="override">Caleb Jolliffe</a></r-cell>
+            <r-cell span=3-7><div data-timezone="America/Toronto">YXU <output>00:00:00</output></div></r-cell>
+            <r-cell span=1 class="final"><a href="" class="override">Start a Project</a></r-cell>
+
+            <r-cell span=row class="whitespace"></r-cell>
+
+            <r-cell span=1-3 id="bio"><a href="https://read.cv/calebjolliffe" target="_blank">Caleb Jolliffe</a> is a digital designer. He moonlights as a dog dad. You're seeing this in progress. Need something before this gets finished? Shoot me a message <a href="mailto:caleb@calebjolliffe.co">here</a>.</r-cell>
+            <r-cell></r-cell>
+            <r-cell span=5-7>
+                <ul>
+                    <li>Recent Builds</li>
+                    <hr>
+                    <li><a href="" class="projects override">Project</a></li>
+                    <hr>
+                    <li><a href="" class="projects override">Project</a></li>
+                    <hr>
+                    <li><a href="" class="projects override">Project</a></li>
+                    <hr>
+                </ul>
+            </r-cell>
+            <r-cell></r-cell>
+
+            <r-cell span=row class="whitespace"></r-cell>
+
+            <r-cell span=1-2>Caleb Jolliffe</r-cell>
+            <r-cell span=3-4></r-cell>
+            <r-cell>
+                <ul>
+                    <li class="start">Elsewhere</li>
+                    <li><a href="" class="override">Shop</a></li>
+                    <li><a href="" class="override">Figma</a></li>
+                    <li><a href="" class="override">Twitter</a></li>
+                </ul>
+            </r-cell>
+            <r-cell>
+                <ul>
+                    <li class="start">Work</li>
+                    <li><a href="" class="override">Folio</a></li>
+                    <li><a href="" class="override">Now</a></li>
+                    <li><a href="" class="override">Contact</a></li>
+                </ul>
+            </r-cell>
+            <r-cell>
+                <ul>
+                    <li class="start">Section</li>
+                    <li><a href="" class="override">Link</a></li>
+                    <li><a href="" class="override">Link</a></li>
+                    <li><a href="" class="override">Link</a></li>
+                </ul>
+            </r-cell>
+
+            <r-cell span=row class="whitespace"></r-cell>
+
+            <r-cell span=1-2 class="footer">&copy;2023 Caleb Jolliffe</r-cell>
+            <r-cell span=3-7 class="footer"></r-cell>
+            <r-cell class="footer final"><a href="https://digitalbeacon.co/report/calebjolliffe-co" class="override">Beacon</a></r-cell>
+        </r-grid>
+
+        <script src="https://moment.github.io/luxon/global/luxon.min.js"></script>
+        <script src="min.js"></script>
+
     </body>
+
 </html>
