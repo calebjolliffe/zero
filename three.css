@@ -45,8 +45,15 @@ ul {
 }
 
 .start {
+    margin-bottom:8%;
+}
+
+.projects {
+}
+
+hr {
     color:#777;
-    margin-bottom:10%;
+    stroke-width:1px;
 }
 
 .footer {
