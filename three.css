@@ -7,6 +7,15 @@
     margin:1.25%;
 }
 
+a {
+    text-decoration:none;
+    color:#8A8A8A;
+}
+
+a:hover {
+    opacity:0.4;
+}
+
 .whitespace {
     margin-top:12.5%;
 }
@@ -26,5 +35,6 @@ ul {
 }
 
 .start {
-    color:#6a6a6a;
+    color:#8A8A8A;
+    margin-bottom:10%;
 }
