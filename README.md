@@ -12,7 +12,7 @@ The third iteration of my portfolio, built amidst layoffs
 - [x] Finish HTML
 - [x] Finish CSS
 - [x] Finish JS
-- [ ] Put images into Dropbox
+- [x] Put images into Dropbox
 - [x] Put fonts into Dropbox
 - [x] Add Dropbox links to HTML
 - [x] Final test on localhost
