@@ -9,13 +9,13 @@ The third iteration of my portfolio, built amidst layoffs
 ## Backlog
 
 - [x] Finish grid framework
-- [ ] Finish HTML
-- [ ] Finish CSS
+- [x] Finish HTML
+- [x] Finish CSS
 - [x] Finish JS
 - [ ] Put images into Dropbox
 - [x] Put fonts into Dropbox
-- [ ] Add Dropbox links to HTML
-- [ ] Final test on localhost
+- [x] Add Dropbox links to HTML
+- [x] Final test on localhost
 - [ ] Add metadata
 - [ ] Minify HTML
 - [ ] Minify CSS
