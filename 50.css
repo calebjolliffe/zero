@@ -1,0 +1,28 @@
+:root {
+	background-color:#FFF;
+  color:#000;
+  font-family:-apple-system, system-ui, BlinkMacSystemFont, Helvetica, sans-serif;
+  font-weight:400;
+  font-size:16px;
+  line-height:125%;
+  margin:1.25%;
+}
+
+a {
+  text-decoration:none;
+  color:#777;
+}
+
+a:hover {
+  opacity:0.4;
+}
+
+#bio {
+  margin: 2.5% 0 2.5% 0;
+}
+
+.build {
+  line-height:250%;
+  border-top:1px solid #000;
+  border-bottom:1px solid #000;
+}
