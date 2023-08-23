@@ -18,6 +18,7 @@ Building the third iteration of my portfolio after being laid off in mid-July. D
 - [ ] Update all repos
 - [ ] Archive old/redundant files
 - [ ] Launch
+- [ ] Update metadata
 
 
 ## Futurelog
