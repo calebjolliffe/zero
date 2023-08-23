@@ -4,7 +4,6 @@ Building the third iteration of my portfolio after being laid off in mid-July. D
 
 *[calebjolliffe.co](https://calebjolliffe.co)*
 
--
 
 ## Backlog
 - [ ] Update site layout
@@ -19,7 +18,6 @@ Building the third iteration of my portfolio after being laid off in mid-July. D
 - [ ] Update all repos
 - [ ] Launch
 
--
 
 ## Futurelog
 - [ ] Swap JS for Go
