@@ -22,3 +22,4 @@ Building the third iteration of my portfolio after being laid off in mid-July. D
 
 ## Futurelog
 - [ ] Swap JS for Go
+- [ ] Add responsiveness
