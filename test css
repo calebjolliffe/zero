@@ -21,8 +21,12 @@ a:hover {
   margin: 2.5% 0 2.5% 0;
 }
 
+#top {
+  line-height:200%;
+  border-top:#000;
+}
+
 .build {
-  line-height:250%;
-  border-top:1px solid #000;
+  line-height:200%;
   border-bottom:1px solid #000;
 }
