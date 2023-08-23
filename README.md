@@ -7,22 +7,19 @@ Building the third iteration of my portfolio after being laid off in mid-July. D
 ---
 
 ## Backlog
-- [ ] 
-- [x] Finish HTML
-- [x] Finish CSS
-- [x] Finish JS
-- [x] Put images into Dropbox
-- [x] Put fonts into Dropbox
-- [x] Add Dropbox links to HTML
-- [x] Final test on localhost
-- [ ] Add metadata
+- [ ] Update site layout
+- [ ] Remove redundant CSS
+- [ ] Write updated CSS
+- [ ] Write updated JS if necessary
+- [ ] Check Dropbox links
+- [ ] Final test on localhost
 - [ ] Minify HTML
 - [ ] Minify CSS
-- [x] Minify JS
-- [ ] Update all Github repos
-- [ ] Delete redundant/unused code from repos
+- [ ] Minify JS
+- [ ] Update all repos
 - [ ] Launch
 
 ---
 
-*Currently: Refactoring*
+## Futurelog
+- [ ] Swap JS for Go
