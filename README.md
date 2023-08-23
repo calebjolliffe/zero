@@ -1,14 +1,13 @@
 # Three
 
-The third iteration of my portfolio, built amidst layoffs
+Building the third iteration of my portfolio after being laid off in mid-July. Dedicating time to improving my skills to be a stronger programmer and better colleague.
 
 *[calebjolliffe.co](https://calebjolliffe.co)*
 
 ---
 
 ## Backlog
-
-- [x] Finish grid framework
+- [ ] 
 - [x] Finish HTML
 - [x] Finish CSS
 - [x] Finish JS
