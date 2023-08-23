@@ -31,3 +31,7 @@ a:hover {
   line-height:200%;
   border-bottom:1px solid #000;
 }
+
+.end {
+  text-align:right;
+}
