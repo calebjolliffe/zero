@@ -16,6 +16,7 @@ Building the third iteration of my portfolio after being laid off in mid-July. D
 - [ ] Minify CSS
 - [ ] Minify JS
 - [ ] Update all repos
+- [ ] Archive old/redundant files
 - [ ] Launch
 
 
