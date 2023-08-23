@@ -8,10 +8,10 @@ Building the third iteration of my portfolio after being laid off in mid-July. D
 ## Backlog
 - [x] Update site layout
 - [x] Remove redundant CSS
-- [ ] Write updated CSS
-- [ ] Write updated JS if necessary
-- [ ] Check Dropbox links
-- [ ] Final test on localhost
+- [x] Write updated CSS
+- [x] Write updated JS if necessary
+- [x] Check Dropbox links
+- [x] Final test on localhost
 - [ ] Minify HTML
 - [ ] Minify CSS
 - [ ] Minify JS
