@@ -23,3 +23,7 @@ The third iteration of my portfolio, built amidst layoffs
 - [ ] Update all Github repos
 - [ ] Delete redundant/unused code from repos
 - [ ] Launch
+
+---
+
+*Currently: Refactoring*
