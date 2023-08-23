@@ -1,5 +1,5 @@
 html {
-  background-color:#FFF;
+	background-color:#FFF;
   color:#000;
   font-family:-apple-system, system-ui, BlinkMacSystemFont, Helvetica, sans-serif;
   font-weight:400;
@@ -27,16 +27,18 @@ a:hover {
 
 #top {
   margin:10% 0 0 0;
-  line-height:225%;
   border-top:1px solid #000;
   border-bottom:1px solid #000;
 }
 
 .build {
-  line-height:225%;
   border-bottom:1px solid #000;
 }
 
 .end {
   text-align:right;
+}
+
+.tall {
+  line-height:225%;
 }
