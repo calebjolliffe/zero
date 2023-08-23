@@ -10,7 +10,6 @@
 
 a {
   text-decoration:none;
-  color:#777;
 }
 
 a:hover {
@@ -19,6 +18,10 @@ a:hover {
 
 #bio {
   margin: 2.5% 0 2.5% 0;
+}
+
+#bio a {
+  color:#777;
 }
 
 #top {
