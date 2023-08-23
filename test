@@ -62,23 +62,21 @@
 				04 / Build / 0000
 			</r-cell>
 
-
-			<r-cell>
+			<r-cell span=6+1>
 				<a href="https://github.com/ilexen">Git</a>
 			</r-cell>
 
 			<r-cell>
-				<a href="https://">More</a>
+				<a href="https://twitter.com/calebjolliffe">Twitter</a>
 			</r-cell>
 
 			<r-cell>
-				<a href="">+</a>
+				<a href="https://digitalbeacon.co/report/calebjolliffe-co" target="_blank">Beacon</a>
 			</r-cell>
 
-			<r-cell>
-				<a href="">+</a>
-			</r-cell>
-
+			<script src="https://moment.github.io/luxon/global/luxon.min.js"></script>
+      <script src="test.js"></script>
+			
 	</body>
 
 </html>
