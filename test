@@ -47,7 +47,7 @@
 			</r-cell>
 
 
-			<r-cell span=1-4 class="build">
+			<r-cell span=1-4 id="top">
 				01 / Build / 0000
 			</r-cell>
 
