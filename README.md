@@ -6,7 +6,7 @@ Building the third iteration of my portfolio after being laid off in mid-July. D
 
 
 ## Backlog
-- [ ] Update site layout
+- [x] Update site layout
 - [ ] Remove redundant CSS
 - [ ] Write updated CSS
 - [ ] Write updated JS if necessary
