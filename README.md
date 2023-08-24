@@ -12,12 +12,12 @@ Building the third iteration of my portfolio after being laid off in mid-July. D
 - [x] Write updated JS if necessary
 - [x] Check Dropbox links
 - [x] Final test on localhost
-- [ ] Minify HTML
-- [ ] Minify CSS
-- [ ] Minify JS
-- [ ] Update all repos
-- [ ] Archive old/redundant files
-- [ ] Launch
+- [x] Minify HTML
+- [x] Minify CSS
+- [x] Minify JS
+- [x] Update all repos
+- [x] Archive old/redundant files
+- [x] Launch
 - [ ] Update metadata
 
 
