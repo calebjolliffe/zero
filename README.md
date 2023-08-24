@@ -18,10 +18,10 @@ Building the third iteration of my portfolio after being laid off in mid-July. D
 - [x] Update all repos
 - [x] Archive old/redundant files
 - [x] Launch
-- [ ] Update metadata
 
 
 ## Futurelog
+- [ ] Update metadata
 - [ ] Swap JS for Go
 - [ ] Add responsiveness
 - [ ] Reduce file sizes
