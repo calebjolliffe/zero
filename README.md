@@ -6,21 +6,6 @@ Building the third iteration of my portfolio after being laid off in mid-July. D
 
 
 ## Backlog
-- [x] Update site layout
-- [x] Remove redundant CSS
-- [x] Write updated CSS
-- [x] Write updated JS if necessary
-- [x] Check Dropbox links
-- [x] Final test on localhost
-- [x] Minify HTML
-- [x] Minify CSS
-- [x] Minify JS
-- [x] Update all repos
-- [x] Archive old/redundant files
-- [x] Launch
-
-
-## Futurelog
 - [ ] Update metadata
 - [ ] Swap JS for Go
 - [ ] Add responsiveness
