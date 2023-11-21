@@ -1,14 +1,18 @@
 # Three
 
-Building the third iteration of my portfolio after being laid off in mid-July. Dedicating time to improving my skills to be a stronger programmer and better colleague.
+Reducing my carbon footprint with a near-zero website.
 
-*[calebjolliffe.co](https://calebjolliffe.co)*
+[Carbon Status](https://digitalbeacon.co/calebjolliffe-co)
 
 
 ## Backlog
-- [ ] Update metadata
-- [ ] Swap JS for Go
-- [ ] Add responsiveness
-- [ ] Reduce file sizes
-- [ ] Further reduce CSS redundancies
-- [ ] Reduce HTML redundancies
+- [ ] Update full site layout
+- [ ] Build new website
+- [ ] Push all commits
+- [ ] Update images where necessary
+- [ ] Update all copy
+- [ ] Update all metadata
+- [ ] Create atomic subdomain
+- [ ] Minify + commit all code
+- [ ] Write one atomic essay
+- [ ] Push atomic essay
