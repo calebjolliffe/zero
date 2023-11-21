@@ -1,1 +1,0 @@
-const locations=document.querySelectorAll("r-cell div"),updateTimes=function(){locations.forEach(e=>{let t=e.querySelector("output"),o=e.getAttribute("data-timezone"),i=luxon.DateTime.now().setZone(o);t.innerHTML=i.toFormat("HH:mm:ss")})};updateTimes(),setInterval(function(){updateTimes()},1e3);
