@@ -2,7 +2,7 @@
 
 Reducing my carbon footprint with a near-zero website.
 
-[Carbon Status](https://digitalbeacon.co/calebjolliffe-co)
+[Carbon Status](https://digitalbeacon.co/report/calebjolliffe-co)
 
 
 ## Backlog
