@@ -4,8 +4,6 @@ Reducing my carbon footprint with a near-zero website.
 
 [Carbon Status](https://digitalbeacon.co/report/calebjolliffe-co)
 
-Currently building v9 for 2024.
-
 
 ## Backlog
 - [ ] Update full site layout
