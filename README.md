@@ -1,4 +1,4 @@
-# Three
+# Folio
 
 Reducing my carbon footprint with a near-zero website.
 
@@ -16,3 +16,4 @@ Reducing my carbon footprint with a near-zero website.
 - [ ] Minify + commit all code
 - [ ] Write one atomic essay
 - [ ] Push atomic essay
+- [ ] Optimize mobile site
