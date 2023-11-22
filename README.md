@@ -12,8 +12,5 @@ Reducing my carbon footprint with a near-zero website.
 - [ ] Update images where necessary
 - [ ] Update all copy
 - [ ] Update all metadata
-- [ ] Create atomic subdomain
 - [ ] Minify + commit all code
-- [ ] Write one atomic essay
-- [ ] Push atomic essay
 - [ ] Optimize mobile site
