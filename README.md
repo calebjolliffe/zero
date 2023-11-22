@@ -1,4 +1,4 @@
-# Folio
+# Zero
 
 Reducing my carbon footprint with a near-zero website.
 
