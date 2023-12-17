@@ -6,7 +6,7 @@ Reducing my carbon footprint with a near-zero website.
 
 
 ## Backlog
-- [ ] Update full site layout
+- [x] Update full site layout
 - [ ] Build new website
 - [ ] Push all commits
 - [ ] Update images where necessary
