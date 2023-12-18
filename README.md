@@ -7,10 +7,14 @@ Reducing my carbon footprint with a near-zero website.
 
 ## Backlog
 - [x] Update full site layout
-- [ ] Build new website
+- [x] Build new website
 - [ ] Push all commits
 - [ ] Update images where necessary
 - [ ] Update all copy
 - [ ] Update all metadata
 - [ ] Minify + commit all code
 - [ ] Optimize mobile site
+
+
+## Credits
+> [Raster, Rasmus Andersson](https://rsms.me/raster/)
