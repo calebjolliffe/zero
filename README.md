@@ -11,7 +11,7 @@ Reducing my carbon footprint with a near-zero website.
 - [ ] Push all commits
 - [x] Update images where necessary
 - [x] Update all copy
-- [ ] Update all metadata
+- [x] Update all metadata
 - [ ] Minify + commit all code
 - [ ] Optimize mobile site
 
