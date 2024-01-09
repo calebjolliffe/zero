@@ -1,0 +1,14 @@
+---
+permalink: /test/
+---
+<!doctype html>
+<html>
+<head>
+<title>Test</title>
+</head>
+<body>
+<h1>This is a test page.</h1>
+<p>This is a test paragraph.</p>
+<p>This is another test paragraph.</p>
+</body>
+</html>
